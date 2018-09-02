@@ -2,7 +2,7 @@
   
 该模块通过修改`build.prop`的一些设置项来启用 VoLTE / VoWifi。  
 
-**注意：** 如果你的运营商不支持 VoLTE/VoWiFi，那么就算你安装了本模块也不会有任何作用。
+**注意：** 如果你的运营商不支持 VoLTE/VoWiFi，那么就算你安装了本模块也不会有任何作用。  
  [VoEnabler的XDA发布页](https://forum.xda-developers.com/apps/magisk/module-v4-volte-enabler-t3649613)
 
 ## 这个模块究竟做了啥事呢?
